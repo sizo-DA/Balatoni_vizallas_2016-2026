@@ -1,0 +1,10 @@
+# Jupyter Notebook automatikus mentési mappái
+.ipynb_checkpoints/
+
+# Python gyorsítótár
+__pycache__/
+*.py[cod]
+
+# Ideiglenes fájlok
+*.tmp
+*.log
